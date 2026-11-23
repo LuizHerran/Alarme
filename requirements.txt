@@ -1,0 +1,8 @@
+APScheduler==3.11.3
+customtkinter==6.0.0
+darkdetect==0.8.0
+packaging==26.3
+pydub==0.25.1
+python-vlc==3.0.21203
+tzdata==2026.5
+tzlocal==5.4.4
